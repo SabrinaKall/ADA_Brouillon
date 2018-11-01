@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Overly large data files
+Homework3/Sabrina/data/*
